@@ -1,0 +1,10 @@
+c:\users\ian\documents\visual studio 2015\Projects\MicroviewMonitor\MicroviewMonitor\bin\Debug\MicroviewMonitor.exe.config
+C:\Users\Ian\Documents\Visual Studio 2015\Projects\MicroviewMonitor\MicroviewMonitor\obj\Debug\MicroviewMonitor.csprojResolveAssemblyReference.cache
+C:\Users\Ian\Documents\Visual Studio 2015\Projects\MicroviewMonitor\MicroviewMonitor\obj\Debug\MicroviewMonitor.MonitorWindow.resources
+C:\Users\Ian\Documents\Visual Studio 2015\Projects\MicroviewMonitor\MicroviewMonitor\obj\Debug\MicroviewMonitor.Properties.Resources.resources
+C:\Users\Ian\Documents\Visual Studio 2015\Projects\MicroviewMonitor\MicroviewMonitor\obj\Debug\MicroviewMonitor.csproj.GenerateResource.Cache
+C:\Users\Ian\Documents\Visual Studio 2015\Projects\MicroviewMonitor\MicroviewMonitor\bin\Debug\MicroviewMonitor.exe
+C:\Users\Ian\Documents\Visual Studio 2015\Projects\MicroviewMonitor\MicroviewMonitor\bin\Debug\MicroviewMonitor.pdb
+C:\Users\Ian\Documents\Visual Studio 2015\Projects\MicroviewMonitor\MicroviewMonitor\obj\Debug\MicroviewMonitor.exe
+C:\Users\Ian\Documents\Visual Studio 2015\Projects\MicroviewMonitor\MicroviewMonitor\obj\Debug\MicroviewMonitor.pdb
+C:\Users\Ian\Documents\Visual Studio 2015\Projects\MicroviewMonitor\MicroviewMonitor\bin\Debug\OpenHardwareMonitorLib.dll
